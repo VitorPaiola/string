@@ -11,6 +11,10 @@ Abaixo estão as funcionalidades de cada programa.
 - Estruturas de controle (loops, condicionais)
 - Métodos para modularização do código
 
+## 📌 Confira meu artigo no DEV.to
+
+Para aprender mais sobre Java e ver exemplos de exercícios, confira meu artigo no [DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-2-5aj2)! 🚀
+
 ## 📂 Estrutura do Projeto
 
 ```estrutura
