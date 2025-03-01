@@ -90,7 +90,7 @@ java string.calculadoraVolumeEsfera.CalculadoraVolumeEsfera
 
 ## 📌 Descrição dos Programas
 
-### 🔵 **CalculadoraVolumeEsfera**
+### 🔵 **Calculador o Volume de uma Esfera**
 
 Calcula o volume de uma esfera a partir do raio fornecido pelo usuário.
 
@@ -99,63 +99,63 @@ Calcula o volume de uma esfera a partir do raio fornecido pelo usuário.
 volume = (4.0 / 3) * Math.PI * Math.pow(raio, 3);
 ```
 
-### ➗ **ConcatenarPalavras**
+### ➗ **Concatenar Palavras**
 
 Concatena duas palavras fornecidas pelo usuário.
 
-### 🔢 **ContarEspacosV1**
+### 🔢 **Contar Espacos versão-1**
 
 Conta o número de espaços em uma string fornecida pelo usuário.
 
-### 🔢 **ContarEspacosV2**
+### 🔢 **Contar Espacos versão-2**
 
 Conta o número de espaços em uma string, considerando espaços consecutivos.
 
-### 🔤 **ContarVogaisV1**
+### 🔤 **Contar Vogais versão-1**
 
 Conta o número de vogais em uma string fornecida pelo usuário.
 
-### 🔤 **ContarVogaisV2**
+### 🔤 **Contar Vogais versão-2**
 
 Conta o número de vogais em uma string, considerando a diferenciação entre maiúsculas e minúsculas.
 
-### 🔠 **ExibirLetrasV1**
+### 🔠 **Exibir Letras versão-1**
 
 Exibe as letras de uma string fornecida pelo usuário.
 
-### 🔠 **ExibirLetrasV2**
+### 🔠 **Exibir Letras versão-2**
 
 Exibe as letras de uma string de forma reversa.
 
-### 📝 **ExibirNomeSobrenome**
+### 📝 **Exibir Nome e Sobrenome**
 
 Exibe o nome e sobrenome fornecidos pelo usuário separadamente.
 
-### 📝 **ExibirPrimeiroNome**
+### 📝 **Exibir Primeiro Nome**
 
 Exibe apenas o primeiro nome fornecido pelo usuário.
 
-### 🔄 **SubstituirLetraV1**
+### 🔄 **Substituir Letra versão-1**
 
 Substitui uma letra específica em uma string por outra fornecida pelo usuário.
 
-### 🔄 **SubstituirLetraV2**
+### 🔄 **Substituir Letra versão-2**
 
 Substitui todas as ocorrências de uma letra específica em uma string por outra.
 
-### 🔑 **VerificarAnagramaV1**
+### 🔑 **Verificar Anagrama versão-1**
 
 Verifica se duas palavras fornecidas pelo usuário são anagramas.
 
-### 🔑 **VerificarAnagramaV2**
+### 🔑 **Verificar Anagrama versão-2**
 
 Verifica se duas palavras são anagramas, considerando letras repetidas.
 
-### 🧾 **VerificarNome**
+### 🧾 **Verificar Nome**
 
 Verifica se o nome fornecido pelo usuário atende a um critério específico (por exemplo, se possui mais de 5 caracteres).
 
-### 🔄 **VerificarPalindromo**
+### 🔄 **Verificar Palindromo**
 
 Verifica se uma palavra fornecida pelo usuário é um palíndromo.
 
