@@ -159,6 +159,12 @@ Verifica se o nome fornecido pelo usuário atende a um critério específico (po
 
 Verifica se uma palavra fornecida pelo usuário é um palíndromo.
 
+## 📌 Quer acompanhar mais dicas e novidades sobre Java?
+
+🔔 Fique por dentro de tudo sobre Java! Me siga no [Twitter](https://x.com/v__souz) para receber dicas, novidades e atualizações! 🚀✨
+
+---
+
 ### 📜 **Licença**
 
 Este projeto foi desenvolvido por mim e está livre para uso e modificação sem restrições formais.
