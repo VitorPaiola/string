@@ -1,5 +1,7 @@
 # 📌 Manipulação de Strings em Java
 
+![java-2](https://github.com/user-attachments/assets/6c1cb886-2e99-4874-afb8-65b9497bf7f2)
+
 Este repositório contém diversos programas em Java que realizam manipulações com strings, 
 como cálculo de volume, contagem de caracteres, verificação de anagramas e outros. 
 Abaixo estão as funcionalidades de cada programa.
